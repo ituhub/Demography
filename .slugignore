@@ -1,0 +1,14 @@
+# Ignore data files
+*.csv
+*.xlsx
+data/
+
+# Ignore notebooks and development files
+*.ipynb
+notebooks/
+tests/
+docs/
+
+# Ignore environment files
+.env
+*.env
